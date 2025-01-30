@@ -21,7 +21,6 @@ This project models a basic railway ticket booking system for the Indian Railway
 
 ## Installation
 1. Install dependencies:
-   ```bash
    pip install pandas
 
 ## To run the file
